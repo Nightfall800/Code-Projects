@@ -14,4 +14,7 @@ But this one can be run in Windows. I've used raylib 5.0 to simplify the coding 
 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/69a7a5b5-0a5b-43ac-b361-e09059b93a70" />
 
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/ee501f1b-08b8-4c15-9e95-6a006655800f" />
+
+
 
