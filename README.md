@@ -11,3 +11,7 @@ CAD program, etc. I've used raylib 5.5. Open source.
 I'm making a wolfenstein-like game in 3D. 
 Mostly because I want to try doing something like that and I think the technology behind it is interesting. 
 But this one can be run in Windows. I've used raylib 5.0 to simplify the coding a bit. Not open source.
+
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/69a7a5b5-0a5b-43ac-b361-e09059b93a70" />
+
+
