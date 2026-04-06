@@ -14,6 +14,7 @@ Jag har fått dörrar, fienden och skjutning att funka. Har även fixat så att 
 # 3D Editorn.
 När jag ville testa lite större banor så var jag tvungen att skapa en editor. Att synka flera data-arrays med varandra vart för jobbigt.
 Så då gick en massa arbete åt att göra en editor och uppdatera editorn, allt eftersom jag utvecklade min 3D motor.
+<img width="800" height="470" alt="image" src="https://github.com/user-attachments/assets/7815a509-facd-4878-b267-3fb8f32aab14" />
 
 
 # 3D CAD Raylib.
