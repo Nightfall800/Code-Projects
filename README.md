@@ -63,6 +63,7 @@ I den bifogade bilden så vart texture på fiende fel, men det är nu fixat. Men
 detta är en 3D motor som jag byggt och inte foton från ett spel. Har skapat enkla AI på några av fienden.
 Skjuta funkar, dörrar och plattformar funkar, map lighting funkar och mycket mer. Att komma till detta stadie
 med den kunskap jag har nu, tog tre veckor. Utvecklat under mars-2026.
+
 <img width="800" height="470" alt="image" src="https://github.com/user-attachments/assets/63afefeb-17e5-48e6-9403-b231c8504a84" />
 
 
@@ -79,6 +80,8 @@ Sen gjorde jag även så jag kan packa ihop till samma format. Detta funkar för
 
 # PK3-Disassembler.
 Av nyfikenhet ville jag se vad som fanns i Quake3 PK3-fil, så jag gjorde ett liknande program som för PAK-filerna.
+
+<img width="800" height="470" alt="image" src="https://github.com/user-attachments/assets/0b313d61-a2b9-49f3-a9db-6b652020ab5e" />
 
 
 
