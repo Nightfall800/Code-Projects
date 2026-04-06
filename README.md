@@ -8,6 +8,7 @@ Så under två år med många kortare luckor av olika anledningar, så skapade j
 För att göra det enkelt för mig använde jag mig av sprite från Wolfenstein. Detta kallas för 2.5D motor för att det användes sprite.
 Jag såg att i "Raylib"(hjälp bibliotek till C/C++), så fanns det många exempel och delar av dom exemplen vart början till 3D motorn.
 Jag har fått dörrar, fienden och skjutning att funka. Har även fixat så att 3D modeller går att ladda in. Utvecklad under åren 2024 - 2025.
+<img width="800" height="470" alt="image" src="https://github.com/user-attachments/assets/60ef626c-21d0-4408-b633-f5be5027730e" />
 
 
 # 3D Editorn.
