@@ -48,6 +48,7 @@ Så det löste mycket och mesta av tiden gick till att få till meny och spel gr
 Har en gång i tiden ägt en version av AutoCAD(Väldigt dyr sådan) och den går inte längre att använda.
 För dom låter inte 10 år gamla program få fortsätta. Jag försökte installera det på ny dator, då gamla gav upp.
 Så där av är jag väldigt intresserad utav att göra en egen enkel version med dom egenskaper jag behöver.
+<img width="800" height="470" alt="image" src="https://github.com/user-attachments/assets/a252d568-0902-490d-9720-58271f9c3e97" />
 
 
 
