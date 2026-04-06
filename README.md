@@ -33,6 +33,7 @@ Efter att jag utvecklade en 3D CAD med Raylib, så såg jag att mycket kunde fö
 Jag såg exempel på ImGuizmo, och hur det förenklar hantering av 3D objekt i 3D världen, väldigt mycket.
 Jag vet även att OpenGL är vad som används av dom stora företagen när det gäller 3D CAD, så varför inte fortsätta bygga på min kunskap.
 Mycket är kvar att göra, men roligt att hålla på med, lite då och då.
+<img width="800" height="470" alt="image" src="https://github.com/user-attachments/assets/39d868a7-9faf-4b2d-b2b3-dcdccb3de11b" />
 
 
 # Minesweeper.
