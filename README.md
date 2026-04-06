@@ -59,8 +59,9 @@ Denna version av OpenGL är anpassad för Windows95, inte för dagens datorer.
 Men efter några dagars stympande av kod och fejka original kodens sökvägar, så lessnade jag och kom till
 beslutet att göra en egen motor. Vilket innebar att jag använde Quakes pak0.pak-fil, för att läsa ut banan,
 alla texture, map lighting och massor av andra finesser. Nu vart det en riktig 3D motor som funkar i Windows11.
-I den bifogade bilden så vart texture på fiende fel, men det är nu fixat. Men tycker det är mer bevis på att
-detta är en 3D motor som jag byggt och inte foton från ett spel. Har skapat enkla AI på några av fienden.
+I den bifogade bilden så vart texture på fiende och players handvapen fel, men det är nu fixat. 
+Men tycker det är mer bevis på att detta är en 3D motor som jag byggt och inte foton från ett spel. 
+Har skapat enkla AI på några av fienden.
 Skjuta funkar, dörrar och plattformar funkar, map lighting funkar och mycket mer. Att komma till detta stadie
 med den kunskap jag har nu, tog tre veckor. Utvecklat under mars-2026.
 
