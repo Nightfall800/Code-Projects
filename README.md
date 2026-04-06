@@ -63,6 +63,7 @@ I den bifogade bilden så vart texture på fiende fel, men det är nu fixat. Men
 detta är en 3D motor som jag byggt och inte foton från ett spel. Har skapat enkla AI på några av fienden.
 Skjuta funkar, dörrar och plattformar funkar, map lighting funkar och mycket mer. Att komma till detta stadie
 med den kunskap jag har nu, tog tre veckor. Utvecklat under mars-2026.
+<img width="800" height="470" alt="image" src="https://github.com/user-attachments/assets/63afefeb-17e5-48e6-9403-b231c8504a84" />
 
 
 
