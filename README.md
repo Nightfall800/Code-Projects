@@ -20,6 +20,7 @@ Så då gick en massa arbete åt att göra en editor och uppdatera editorn, allt
 # 3D CAD Raylib.
 Jag har alltid varit nyfiken på 3D och hur man gör 3D CAD program. Med min kunskap från 3D motorn, så började jag skapa ett 3D CAD program.
 Fick många saker att fungera och lärde mig mycket.
+<img width="800" height="470" alt="image" src="https://github.com/user-attachments/assets/6b5a8347-0052-49ac-9719-8b37dfde8c27" />
 
 
 # Korsords editorn.
