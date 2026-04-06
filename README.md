@@ -40,6 +40,7 @@ Mycket är kvar att göra, men roligt att hålla på med, lite då och då.
 Satt och funderade på hur man skulle kunna göra Minesweeper med OpenGL och få en egen version.
 Hittade på nätet ett dockument över hur logiken för Minesweeper teoretiskt bör fungera.
 Så det löste mycket och mesta av tiden gick till att få till meny och spel grafik.
+<img width="800" height="470" alt="image" src="https://github.com/user-attachments/assets/beddbbde-f9b2-424b-bb25-18bda785460b" />
 
 
 
