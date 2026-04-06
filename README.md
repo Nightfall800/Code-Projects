@@ -25,6 +25,7 @@ Fick många saker att fungera och lärde mig mycket.
 
 # Korsords editorn.
 Fick en tanke i huvudet hur det skulle kunna utföras och ville testa detta praktiskt.
+<img width="800" height="470" alt="image" src="https://github.com/user-attachments/assets/4fee63b8-fb84-463c-8ff6-d0703065596c" />
 
 
 # 3D CAD OpenGL.
