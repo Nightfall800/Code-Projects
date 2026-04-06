@@ -72,6 +72,7 @@ Jag utvecklade mycket av min 3D motor version 2, utan att veta hur modeller och 
 Jag använde några verktyg som jag hittade på internet, men bökiga att använda och man såg inte så mycket som jag ville se.
 Jag koncentrerade mig på hur man packar upp filen och kunde då se med olika program, filerna som var i PAK-filen.
 Sen gjorde jag även så jag kan packa ihop till samma format. Detta funkar för Quake1, Quake2 och Hexen2.
+<img width="800" height="470" alt="image" src="https://github.com/user-attachments/assets/89cc19c8-e9f6-4cb8-9eca-3246155ffb80" />
 
 
 
